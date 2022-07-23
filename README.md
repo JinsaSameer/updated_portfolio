@@ -1,5 +1,9 @@
-#  My Portfolio
-This is my Portfolio.If you click on the items on nav bar it will points to the specific region you selected.
+#  My updated_portfolio
+
+
+
+This is includes my github pages and linkedin profile.I have included my projects also.
+my updated portfolio deployment link is git@github.com:JinsaSameer/updated_portfolio.git
 ```
 ##Technology Used
 HTML
@@ -15,30 +19,17 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ```
 
 
-## Acceptance Criteria
+## Screenshots
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+![Screenshot (87)](https://user-images.githubusercontent.com/101385521/180586443-8dd36352-39bb-46ae-be0b-62563434fded.png)
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+![Screenshot (88)](https://user-images.githubusercontent.com/101385521/180586451-51c692e6-e3be-4ced-a9fc-0aef6cd80aba.png)
+
+![Screenshot (89)](https://user-images.githubusercontent.com/101385521/180586461-e3a1db86-7fbc-4b3c-95ac-05a5d86c574b.png)
+
+![Screenshot (90)](https://user-images.githubusercontent.com/101385521/180586469-e4dc493d-a23e-4e34-865b-1b909a4860a4.png)
 
 
-## Mock-Up
-![Screenshot (35)](https://user-images.githubusercontent.com/101385521/168740382-e97275ba-4287-420d-a089-7218e8978166.png)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/101385521/168740408-f2b5d62a-e1c7-4863-a53a-698bbca38b1f.png)
 
 
