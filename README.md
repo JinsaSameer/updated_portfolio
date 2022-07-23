@@ -3,7 +3,7 @@
 
 
 This is includes my github pages and linkedin profile.I have included my projects also.
-my updated portfolio deployment link is git@github.com:JinsaSameer/updated_portfolio.git
+my updated portfolio deployment link is git@github.com:JinsaSameer/updated_portfolio.git.
 ```
 ##Technology Used
 HTML
