@@ -215,8 +215,9 @@ a:hover{
   float: left;
   width: 274px;
   height: 207px;
-  margin: 20px 0 25px;
-  overflow: auto;
+  /*margin: 20px 0 25px;*
+  /*overflow: auto;*/
+  padding:50px;
 }
 
 .work:nth-child(even) {
