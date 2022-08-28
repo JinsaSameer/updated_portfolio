@@ -20,8 +20,8 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ## Screenshots
+![Screenshot (144)](https://user-images.githubusercontent.com/101385521/187091709-5b37dca6-7a29-4502-b088-67bf2e1850ac.png)
 
-![Screenshot (87)](https://user-images.githubusercontent.com/101385521/180586443-8dd36352-39bb-46ae-be0b-62563434fded.png)
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/101385521/180586451-51c692e6-e3be-4ced-a9fc-0aef6cd80aba.png)
 
