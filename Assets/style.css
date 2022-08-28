@@ -85,21 +85,23 @@ html,body  {
 
   }
    .content {
-    
+    margin-top: 50px;
     display: flex;
     /*justify-content: left;*/
     
     margin-left: 1%;
-    margin-top: 50px;
+    
     padding-left: 40px;
   }
   
 
 .container {
-  margin-top: -5%;
+  margin-top: 70px;
   width: 1000px;
   height: 750px;
   margin-left: 6%;
+  /*border-left:  solid 4px #13293d ;*/
+}
  
 }
 .container #img1 {
