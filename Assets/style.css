@@ -241,19 +241,34 @@ a:hover{
   
 }
 @media screen and (max-width: 576px) {
+
+  .sub-header { font-size: 24px
+     
+     }
+  
   .main-header,
   nav {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    
   }
+  
   #second-section{
     display: block;
+    display: flex;
+    
+  }
+
+  .work{
+    display: flex;
+    width: 60%
   }
 }
 
 
 
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 840px) {
   
       h1 {
     
@@ -275,18 +290,11 @@ a:hover{
         margin-right: 0px;
     
       }
-  
-    }
-@media screen and (max-width: 768px) {
-    main,
-    nav,
-    .container {
-      flex-direction: coulmn;
 
-    }
-    .container {
-      display: block;
-    }
-    
+  .work{
+    display: flex;
+    width: 70%
   }
+
+
   
